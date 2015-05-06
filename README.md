@@ -1,4 +1,4 @@
-# Playgrounds and Parks
+# San Diego Playgrounds and Parks
 
 ## Table of contents
 - [Pitch](#section_pitch "Pitch")
@@ -12,7 +12,7 @@
 
 ### <a name="section_pitch"></a>Pitch
 
-Develop an app that a young mother could open on her phone and see the location of a city park close to her for her and her children to go to.
+Develop an app that a young mother could open on her smartphone and see the location of a city park close to her for her and her children to go to.
 
 ### <a name="section_goal"></a>Goal
 
@@ -22,20 +22,20 @@ Develop an app that a young mother could open on her phone and see the location 
 
 ### <a name="section_goal"></a>Data
 
-- park data from SanGIS (polygons)
-- parks in OpenStreetMap (polygon and points)
-- playgrounds interpreted from Bing/USGS imagery (points)
+- Park data from [SanGIS](http://www.sangis.org/ "San Diego Geographic Information Source") (polygons)
+- Parks in [OpenStreetMap](https://www.openstreetmap.org/ "OpenStreetMap") (polygon and points)
+- Playgrounds interpreted from Bing/USGS imagery (points)
 
 ### <a name="section_stack"></a>Stack
 
-- Leaflet
+- [Leaflet](http://leafletjs.com/ "Leaflet JavaScript Library")
 - Geolocation interface on mobile device
 
 ### <a name="section_skills"></a>Skills
 
 - GIS (5 hours): Cristiano
 - OSM/Image Interpretation (10 hours): ?
-- Javascript (10 hours): ?
+- JavaScript (10 hours): ?
 
 ### <a name="section_team"></a>Team
 
@@ -46,8 +46,12 @@ Develop an app that a young mother could open on her phone and see the location 
 
 ### <a name="section_similar"></a>Similar projects
 
-http://www.sandiegocounty.gov/parks/pmap_google.html
+[http://www.sandiegocounty.gov/parks/pmap_google.html](http://www.sandiegocounty.gov/parks/pmap_google.html)
 
 ### <a name="section_github"></a>GitHub
 
-https://github.com/opensandiego/sd-playgrounds-parks
+[https://github.com/opensandiego/sd-playgrounds-parks](https://github.com/opensandiego/sd-playgrounds-parks)
+
+- **Master** branch: iOS app implementation
+- **Yeoman-dev** branch: Web implementation, head (experimental)
+- **gh-pages** branch: Web implementation, trunk
