@@ -39,13 +39,15 @@ Develop an app that a young mother could open on her phone and see the location 
 
 ### <a name="section_team"></a>Team
 
-- Xavier Leonard
-- Cristiano Giovando
+- [Xavier Leonard](https://github.com/merelyanode "merelyanode")
+- [Cristiano Giovando](https://github.com/cgiovando "cgiovando")
 - Gary Hayslip
-- Glenn Batuyong
+- [Glenn Batuyong](https://github.com/47ronin "47ronin")
 
 ### <a name="section_similar"></a>Similar projects
 
 http://www.sandiegocounty.gov/parks/pmap_google.html
 
 ### <a name="section_github"></a>GitHub
+
+https://github.com/opensandiego/sdplaygrounds-parks
