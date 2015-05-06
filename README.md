@@ -50,4 +50,4 @@ http://www.sandiegocounty.gov/parks/pmap_google.html
 
 ### <a name="section_github"></a>GitHub
 
-https://github.com/opensandiego/sdplaygrounds-parks
+https://github.com/opensandiego/sd-playgrounds-parks
