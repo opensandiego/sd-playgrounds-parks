@@ -9,6 +9,7 @@
 - [Team](#section_team "team")
 - [Similar projects](#section_similar "Similar projects")
 - [Github](#section_github "Github")
+- [Participate](#section_participate "How to Participate")
 
 ### <a name="section_pitch"></a>Pitch
 
@@ -20,7 +21,7 @@ Develop an app that a young mother could open on her smartphone and see the loca
 - Secondary goal: crowd-source locations
 - Secondary goal: allow users to provide feedback
 
-### <a name="section_goal"></a>Data
+### <a name="section_data"></a>Data
 
 - Park data from [SanGIS](http://www.sangis.org/ "San Diego Geographic Information Source") (polygons)
 - Parks in [OpenStreetMap](https://www.openstreetmap.org/ "OpenStreetMap") (polygon and points)
@@ -55,3 +56,9 @@ Develop an app that a young mother could open on her smartphone and see the loca
 - **Master** branch: iOS app implementation
 - **Yeoman-dev** branch: Web implementation, head (experimental)
 - **gh-pages** branch: Web implementation, trunk
+
+### <a name="section_participate"></a>How to Participate
+
+- Chat with us on the project Slack [#parks_playgrounds](https://opensandiego.slack.com/signup) channel
+- Email us at [opensandiego@googlegroups.com](opensandiego@googlegroups.com)
+- Join our [meetups](http://www.meetup.com/Open-San-Diego)
