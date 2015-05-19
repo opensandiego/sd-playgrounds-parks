@@ -27,6 +27,9 @@ Develop an app that a young mother could open on her smartphone and see the loca
 
 - Park data from [SanGIS](http://www.sangis.org/ "San Diego Geographic Information Source") (polygons)
 - Parks in [OpenStreetMap](https://www.openstreetmap.org/ "OpenStreetMap") (polygon and points)
+ - [leisure=playground](http://wiki.openstreetmap.org/wiki/Tag:leisure%3Dplayground) tag on OSM wiki
+ - [playground=*](http://wiki.openstreetmap.org/wiki/Key:playground) key on OSM wiki
+ - Sample [Leafleft map](http://overpass-turbo.eu/map.html?Q=%2F*%0AThis%20query%20looks%20for%20nodes%2C%20ways%20and%20relations%20%0Awith%20the%20given%20key%2Fvalue%20combination.%0AChoose%20your%20region%20and%20hit%20the%20Run%20button%20above!%0A*%2F%0A%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%2F%2F%20gather%20results%0A(%0A%20%20%2F%2F%20query%20part%20for%3A%20%E2%80%9Cleisure%3Dplayground%E2%80%9D%0A%20%20node%5B%22leisure%22%3D%22playground%22%5D(32.58153501413734%2C-117.33947753906249%2C32.945877572188245%2C-116.87667846679689)%3B%0A%20%20way%5B%22leisure%22%3D%22playground%22%5D(32.58153501413734%2C-117.33947753906249%2C32.945877572188245%2C-116.87667846679689)%3B%0A%20%20relation%5B%22leisure%22%3D%22playground%22%5D(32.58153501413734%2C-117.33947753906249%2C32.945877572188245%2C-116.87667846679689)%3B%0A)%3B%0A%2F%2F%20print%20results%0Aout%20body%3B%0A%3E%3B%0Aout%20skel%20qt%3B) from Overpass generated data
 - Playgrounds interpreted from Bing/USGS imagery (points)
 
 ### <a name="section_stack"></a>Stack
