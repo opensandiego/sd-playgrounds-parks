@@ -61,6 +61,6 @@ Develop an app that a young mother could open on her smartphone and see the loca
 
 ### <a name="section_participate"></a>How to Participate
 
-- Chat with us on the project Slack [#parks_playgrounds](https://opensandiego.slack.com/signup) channel
+- Chat with us on the project channel [![Join the chat at https://gitter.im/opensandiego/sd-playgrounds-parks](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/opensandiego/sd-playgrounds-parks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - Email us at [opensandiego@googlegroups.com](opensandiego@googlegroups.com)
 - Join our [meetups](http://www.meetup.com/Open-San-Diego)
