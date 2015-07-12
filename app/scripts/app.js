@@ -10,6 +10,7 @@
  */
 angular
   .module('sdPlaygroundsParksApp', [
+    'leaflet-directive',
     'ngAnimate',
     'ngAria',
     'ngCookies',
