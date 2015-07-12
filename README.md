@@ -37,6 +37,23 @@ Develop an app that a young mother could open on her smartphone and see the loca
 - [Leaflet](http://leafletjs.com/ "Leaflet JavaScript Library")
 - Geolocation interface on mobile device
 
+### Installation and build
+
+This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+version 0.12.1.
+
+
+Clone or fork this repository and ensure the following tools are available:
+- [Node Package Manager](https://www.npmjs.com/) (NPM)
+- [Grunt](http://gruntjs.com/)
+- [Bower](http://bower.io/)
+
+Run `npm install` then `bower install`. Grab some coffee :coffee: …this could take a while.
+
+## Build & development
+
+Run `grunt serve` for preview, make customizations **only** in the `app/` folder, and `grunt build` to build a release candidate. Deploy the `dist/` directory.
+
 ### <a name="section_skills"></a>Skills
 
 - GIS (5 hours): Cristiano
