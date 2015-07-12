@@ -21,7 +21,8 @@ angular.module('sdPlaygroundsParksApp')
         }
       }, // defaults
       center: {
-
+        autoDiscover: true,
+        zoom: 18
       } // center
     })
   });
