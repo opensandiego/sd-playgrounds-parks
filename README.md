@@ -7,6 +7,8 @@
 - [Goal](#section_goal "Goal")
 - [Data](#section_data "Data")
 - [Stack](#section_stack "Stack")
+- [Installation](#section_installation "Installation")
+  - [Build and development](#section_build "Build and development")
 - [Skills](#section_skills "Skills")
 - [Team](#section_team "team")
 - [Similar projects](#section_similar "Similar projects")
@@ -37,11 +39,10 @@ Develop an app that a young mother could open on her smartphone and see the loca
 - [Leaflet](http://leafletjs.com/ "Leaflet JavaScript Library")
 - Geolocation interface on mobile device
 
-### Installation and build
+### <a name="section_installation"></a>Installation
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.12.1.
-
 
 Clone or fork this repository and ensure the following tools are available:
 - [Node Package Manager](https://www.npmjs.com/) (NPM)
@@ -50,7 +51,7 @@ Clone or fork this repository and ensure the following tools are available:
 
 Run `npm install` then `bower install`. Grab some coffee :coffee: …this could take a while.
 
-## Build & development
+#### <a name="section_build"></a>Build and development
 
 Run `grunt serve` for preview, make customizations **only** in the `app/` folder, and `grunt build` to build a release candidate. Deploy the `dist/` directory.
 
@@ -75,8 +76,7 @@ Run `grunt serve` for preview, make customizations **only** in the `app/` folder
 
 [https://github.com/opensandiego/sd-playgrounds-parks](https://github.com/opensandiego/sd-playgrounds-parks)
 
-- **Master** branch: iOS app implementation
-- **Yeoman-dev** branch: Web implementation, head (experimental)
+- **Master** branch: Web implementation
 - **gh-pages** branch: Web implementation, trunk
 
 ### <a name="section_participate"></a>How to Participate
