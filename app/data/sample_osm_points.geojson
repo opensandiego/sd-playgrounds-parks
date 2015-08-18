@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "name": "City Heights Cherokee Point Playground", "Park_ID": 7 }, "geometry": { "type": "Point", "coordinates": [ -117.111984, 32.7459868 ] } },
+{ "type": "Feature", "properties": { "name": "Allied Gardens Park", "Park_ID": 6 }, "geometry": { "type": "Point", "coordinates": [ -117.080954, 32.795477 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown Park", "Park_ID": 5 }, "geometry": { "type": "Point", "coordinates": [ -117.1514882, 32.7390047 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown Park", "Park_ID": 4 }, "geometry": { "type": "Point", "coordinates": [ -117.1518133, 32.7387452 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown Park", "Park_ID": 3 }, "geometry": { "type": "Point", "coordinates": [ -117.1484823, 32.7335235 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown Park", "Park_ID": 2 }, "geometry": { "type": "Point", "coordinates": [ -117.1347088, 32.7405874 ] } },
+{ "type": "Feature", "properties": { "name": "Bird Park Swingset", "Park_ID": 1 }, "geometry": { "type": "Point", "coordinates": [ -117.1338444, 32.7392512 ] } }
+]
+}
