@@ -52,15 +52,17 @@ Clone or fork this repository and ensure the following tools are available:
 - [Grunt](http://gruntjs.com/)
 - [Bower](http://bower.io/)
 
-Run `npm install` then `bower install`. Grab some coffee :coffee: …this could take a while.
+Enter your local copy's directory, run `npm install` then `bower install`. Grab some coffee :coffee: …this could take a while
+
+ NPM will install Grunt task runners and dependencies. Bower will install Bootstrap, Chai, jQuery, Leaflet, Mocha, and Modernizr. All of these files will be stored in your project folder under `bower_components/` and `node_modules/` and are referenced automatically in your project. Do not modify these directories. Note: These directories are not included in Git, and are excluded via `.gitignore`.
 
 #### <a name="section_build"></a>Build and development
 
 To add dependencies, `bower install --save [package]` then `grunt wiredep` to ensure the dependency package is referenced by the project. By building with this method, all dependencies will get consolidated properly into the app at deployment using `grunt build`.
 
-Run `grunt serve` for preview, make customizations **only** in the `app/` folder, and `grunt build` to build a release candidate.
+Run `grunt serve` for preview, make customizations **only** in the `app/` folder, and `grunt build` to build a release candidate. Grunt will automatically change the dependency paths of all resources to an official CDN or a directory under `dist/`.
 
-Deploy the `dist/` directory.
+Deploy the `dist/` directory to your web host.
 
 ### <a name="section_skills"></a>Skills
 
