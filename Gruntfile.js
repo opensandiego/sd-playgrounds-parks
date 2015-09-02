@@ -14,6 +14,7 @@ module.exports = function (grunt) {
   require('time-grunt')(grunt);
 
   // Automatically load required grunt tasks
+  grunt.loadNpmTasks('grunt-gh-pages');
   require('jit-grunt')(grunt, {
       useminPrepare: 'grunt-usemin'
   });
