@@ -38,11 +38,14 @@ Develop an app that a young mother could open on her smartphone and see the loca
 
 - [Leaflet](http://leafletjs.com/ "Leaflet JavaScript Library")
 - Geolocation interface on mobile device
+- [Twitter Bootstrap](https://github.com/twbs/bootstrap "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web")
+- [Modernizr](https://github.com/Modernizr/Modernizr "Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser")
+- [jQuery](https://github.com/jquery/jquery "jQuery JavaScript Library")
 
 ### <a name="section_installation"></a>Installation
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.12.1.
+This project was generated with the [Yeoman webapp generator](https://github.com/yeoman/generator-webapp)
+version 1.0.1.
 
 Clone or fork this repository and ensure the following tools are available:
 - [Node Package Manager](https://www.npmjs.com/) (NPM)
@@ -53,19 +56,25 @@ Run `npm install` then `bower install`. Grab some coffee :coffee: …this could 
 
 #### <a name="section_build"></a>Build and development
 
-Run `grunt serve` for preview, make customizations **only** in the `app/` folder, and `grunt build` to build a release candidate. Deploy the `dist/` directory.
+To add dependencies, `bower install --save [package]` then `grunt wiredep` to ensure the dependency package is referenced by the project. By building with this method, all dependencies will get consolidated properly into the app at deployment using `grunt build`.
+
+Run `grunt serve` for preview, make customizations **only** in the `app/` folder, and `grunt build` to build a release candidate.
+
+Deploy the `dist/` directory.
 
 ### <a name="section_skills"></a>Skills
 
 - GIS (5 hours): Cristiano
 - OSM/Image Interpretation (10 hours): ?
-- JavaScript (10 hours): ?
+- JavaScript (10 hours): James
+- HTML5/CSS3 (10 hours): Glenn and others, please!
 
 ### <a name="section_team"></a>Team
 
 - [Xavier Leonard](https://github.com/merelyanode "merelyanode")
 - [Cristiano Giovando](https://github.com/cgiovando "cgiovando")
 - Gary Hayslip
+- [James Villanueva](https://github.com/enigma2522 "enigma2522")
 - [Glenn Batuyong](https://github.com/47ronin "47ronin")
 
 ### <a name="section_similar"></a>Similar projects
