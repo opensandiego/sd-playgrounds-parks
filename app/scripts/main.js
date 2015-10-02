@@ -1,6 +1,8 @@
 // jshint devel:true
 function init() {
 
+L.Icon.Default.imagePath = 'images';
+
     //Fields to Display
     var displayableFields = ["ADDRESS_LO", "OWNERNAME", "OWNERTYPE", "PARK_TYPE", "DESIGNATED", "COMMUNITY_", "COUNCIL_DI"];
 
